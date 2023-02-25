@@ -1,0 +1,16 @@
+D:\C#\C# Projeleri\Orta Seviye Projeler\Mutlak Kare Alma\bin\Debug\net5.0\Mutlak Kare Alma.exe
+D:\C#\C# Projeleri\Orta Seviye Projeler\Mutlak Kare Alma\bin\Debug\net5.0\Mutlak Kare Alma.deps.json
+D:\C#\C# Projeleri\Orta Seviye Projeler\Mutlak Kare Alma\bin\Debug\net5.0\Mutlak Kare Alma.runtimeconfig.json
+D:\C#\C# Projeleri\Orta Seviye Projeler\Mutlak Kare Alma\bin\Debug\net5.0\Mutlak Kare Alma.runtimeconfig.dev.json
+D:\C#\C# Projeleri\Orta Seviye Projeler\Mutlak Kare Alma\bin\Debug\net5.0\Mutlak Kare Alma.dll
+D:\C#\C# Projeleri\Orta Seviye Projeler\Mutlak Kare Alma\bin\Debug\net5.0\Mutlak Kare Alma.pdb
+D:\C#\C# Projeleri\Orta Seviye Projeler\Mutlak Kare Alma\obj\Debug\net5.0\Mutlak Kare Alma.csproj.AssemblyReference.cache
+D:\C#\C# Projeleri\Orta Seviye Projeler\Mutlak Kare Alma\obj\Debug\net5.0\Mutlak Kare Alma.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Projeleri\Orta Seviye Projeler\Mutlak Kare Alma\obj\Debug\net5.0\Mutlak Kare Alma.AssemblyInfoInputs.cache
+D:\C#\C# Projeleri\Orta Seviye Projeler\Mutlak Kare Alma\obj\Debug\net5.0\Mutlak Kare Alma.AssemblyInfo.cs
+D:\C#\C# Projeleri\Orta Seviye Projeler\Mutlak Kare Alma\obj\Debug\net5.0\Mutlak Kare Alma.csproj.CoreCompileInputs.cache
+D:\C#\C# Projeleri\Orta Seviye Projeler\Mutlak Kare Alma\obj\Debug\net5.0\Mutlak Kare Alma.dll
+D:\C#\C# Projeleri\Orta Seviye Projeler\Mutlak Kare Alma\obj\Debug\net5.0\refint\Mutlak Kare Alma.dll
+D:\C#\C# Projeleri\Orta Seviye Projeler\Mutlak Kare Alma\obj\Debug\net5.0\Mutlak Kare Alma.pdb
+D:\C#\C# Projeleri\Orta Seviye Projeler\Mutlak Kare Alma\obj\Debug\net5.0\Mutlak Kare Alma.genruntimeconfig.cache
+D:\C#\C# Projeleri\Orta Seviye Projeler\Mutlak Kare Alma\obj\Debug\net5.0\ref\Mutlak Kare Alma.dll
